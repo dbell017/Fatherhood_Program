@@ -5,6 +5,7 @@
 - Tableau
 
 ## Key Features
+- Python cleaning script for coded survey responses
 - Parameter-driven filtering across 5 data fields
 - Interactive map to view regional and location-based data/trends
 
@@ -12,6 +13,8 @@
 This project is a retrospective exploratory data analysis of a Fatherhood Program that was implemented in a non-profit organization from 2021-2025. 
 This program served fathers and father figures in predominantly rural and suburban areas and aimed to improve parenting skills through evidence-based curricula in group sessions.
 Key performance indicators include enrollments, completions, completion rates, and the number of children served over the duration of the program.
+
+Data exported from the database contained coded survey responses, which were mapped and cleaned using a Python script in conjunction with a data dictionary.
 
 The dashboard, built in Tableau, includes 3 visualizations:
 - Running totals of enrollments and completions over time
