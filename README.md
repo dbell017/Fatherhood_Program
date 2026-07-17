@@ -22,7 +22,7 @@ The dashboard, built in Tableau, includes 3 visualizations:
 - Interactive map of all areas served, allowing for drill-down of specific regional data points and trends
 
 ## Dashboard
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Fatherhood/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Fatherhood/EnrollmentandCompletion?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Notice
 All personally-identifiable information (PII) was removed from this dataset prior to upload into Tableau, including name, address, email, and phone. Each individual is represented by a unique code number. 
